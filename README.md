@@ -2,7 +2,7 @@
 
 Argus reads public prediction-market data from Kalshi and Polymarket. It turns trading ideas into backtests and live paper tests, then judges every strategy against one pass/fail gate. It is **read-only by design**: it can't place an order and never asks for an account key.
 
-**Python · ~19,000 lines · 462 tests passing · 15+ strategy studies · built in 2 days with parallel Claude Code agents**
+**Python · ~20,000 lines · 462 tests passing · 15+ strategy studies · built in 2 days with parallel Claude Code agents**
 
 ## Why it exists
 
