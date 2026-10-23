@@ -1637,3 +1637,5 @@ at_utc,method,url,params,status
 2026-10-23T02:32:14Z,GET,https://example.com/results,,REFUSED
 2026-10-23T02:33:18Z,GET,https://api.elections.kalshi.com/trade-api/v2/portfolio/orders,,REFUSED
 2026-10-23T02:33:18Z,GET,https://example.com/results,,REFUSED
+2026-10-23T17:09:48Z,GET,https://api.elections.kalshi.com/trade-api/v2/portfolio/orders,,REFUSED
+2026-10-23T17:09:48Z,GET,https://example.com/results,,REFUSED

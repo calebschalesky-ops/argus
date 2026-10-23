@@ -2,7 +2,7 @@
 
 Argus reads public prediction-market data from Kalshi and Polymarket. It turns trading ideas into backtests and live paper tests, then judges every strategy against one pass/fail gate. It is **read-only by design**: it can't place an order and never asks for an account key.
 
-**Python · ~20,000 lines · 569 tests passing · 15+ strategy studies · built in 2 days with parallel Claude Code agents**
+**Python · ~19,000 lines · 462 tests passing · 15+ strategy studies · built in 2 days with parallel Claude Code agents**
 
 ## Why it exists
 
@@ -26,7 +26,7 @@ So a strategy has to predict better than the crowd *and* make money. Making mone
 | Study | Sample | Result after fees | Verdict |
 |---|---|---|---|
 | Oil price-range model (Student-t, event calendar, Claude news scoring) | 163 events | about −40% on paper bets | NO EDGE |
-| 15-minute crypto: lag vs fair value | 6,385 markets, 1,456 bets | −$69.30, −9.0% ROI | NO EDGE |
+| 15-minute crypto: lag vs fair value (write-up only; code not yet published) | 6,385 markets, 1,456 bets | −$69.30, −9.0% ROI | NO EDGE |
 | 15-minute crypto: late favourites | 474 bets | −1.0% ROI | NO EDGE |
 | Fade the longshot / be the maker (oil, commodities) | 56–807 orders per variant | −23% to +1% | NO EDGE |
 | Known before close: observed temperature | 2,137 bets, 526 events | −7.8% ROI | NO EDGE |
@@ -46,7 +46,7 @@ Write-ups with method, tables and "what would change the verdict" are in [`resea
 - **Engines:** each strategy is its own package under `argus/` (`commodities`, `weather`, `crypto15`, `mentions`, `smartmoney`, `lab`, ...), and all of them write to the shared prediction-log format.
 - **Lab:** `argus/lab` keeps a local data lake. It mines candidate rules, runs a holdout split, and sends survivors to a live paper pipeline.
 - **Claude:** news headlines are scored for direction, size and how long they will last, through the Anthropic API.
-- **Tests:** `python -m pytest -q`, 569 tests.
+- **Tests:** `python -m pytest -q`, 462 tests.
 
 ## How I built it
 
