@@ -1,0 +1,1 @@
+call_id,logged_at_utc,engine,series,event_ticker,market_ticker,range_label,side,model_prob,market_price,gap_pts,worth_a_look,paper_contracts,fee_per_contract,anchor_price,anchor_kind,vol_daily,horizon_days,event_days,news_shift_pct,close_time_utc,status,settle_value,won,pnl_after_fees,notes

@@ -1,0 +1,8 @@
+date_et,time_et,name,kind,weight,confirmed,source
+2026-10-28,14:00,FOMC rate decision,fomc,,yes,federalreserve.gov FOMC calendar (Oct 27-28 meeting)
+2026-11-01,09:00,OPEC+ seven-country monthly meeting,opec,,yes,opec.org press release 2026-10-04
+2026-11-03,19:00,U.S. midterm election day,election,,yes,federal election date
+2026-11-06,08:30,Jobs report (Employment Situation),jobs,,yes,bls.gov schedule (verify)
+2026-11-10,08:30,CPI (October data),cpi,,yes,bls.gov schedule (verify)
+2026-12-09,14:00,FOMC rate decision,fomc,,yes,federalreserve.gov FOMC calendar (Dec 8-9 meeting)
+2026-12-10,08:30,CPI (November data),cpi,,yes,bls.gov schedule (verify)

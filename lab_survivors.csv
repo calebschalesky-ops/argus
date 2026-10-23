@@ -1,0 +1,1 @@
+cohort,rule_id,family,scope,hours,side,mode,band,extra,mine_events,mine_n,mine_roi,mine_win_rate,mine_p,mine_bh,hold_events,hold_n,hold_roi,hold_ci_lo,hold_ci_hi,hold_p,hold_bh,hold_win_rate,hold_avg_price,hold_fill_rate,hold_brier_model,hold_brier_market,hold_first_half_roi,hold_second_half_roi,hold_recent_3m_roi,status,spec_json

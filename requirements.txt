@@ -1,0 +1,5 @@
+requests>=2.31     # reading public web data (Kalshi API, FRED)
+scipy>=1.11        # the Student-t probability curve
+anthropic>=0.40    # Claude API for news scoring (only needed for the news step)
+pytest>=8.0        # running the tests
+tzdata>=2024.1     # time zone data (Windows needs this for New York time)

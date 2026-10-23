@@ -1,0 +1,37 @@
+ARGUS KNOWN-BEFORE: observed-temp backtest (paper only; taker at the candle ask, fee included)
+Bet rule: side beats its ask by 5c+ after fee, price >= 10c, bid within 5c.
+
+group                  calls  bets events   won      P/L     ROI   $/ct   Brier mdl/mkt bets/wk  verdict
+slot 10:00 local        2239  1080    519   547   -38.24   -6.8%  -3.5c  0.1958/0.1283   126.0  NO EDGE
+slot 13:00 local        1571   742    433   298   -15.19   -5.1%  -2.0c  0.1995/0.1269    86.6  NO EDGE
+slot 16:00 local         752   295    194    71   -16.78  -20.2%  -5.7c  0.1721/0.0748    34.4  NO EDGE
+slot 19:00 local          69    14      9     0    -3.18 -106.0% -22.7c  0.1591/0.0575     1.6  TOO EARLY (9/20 events)
+slot 22:00 local          29     6      4     1    -1.14  -55.6% -19.0c  0.1494/0.0292     0.7  TOO EARLY (4/20 events)
+all highs               4660  2137    526   917   -74.53   -7.8%  -3.5c  0.1924/0.1175   249.3  NO EDGE
+all lows                   0     0      0     0    +0.00     n/a    n/a   n/a / n/a      0.0  -
+KXHIGHAUS                559   251     59   126    +3.81   +3.2%  +1.5c  0.1916/0.1175    29.3  NO EDGE
+KXHIGHCHI                512   234     57   104    -4.56   -4.4%  -1.9c  0.2056/0.1335    27.3  NO EDGE
+KXHIGHDEN                612   265     60    99   -28.66  -23.3% -10.8c  0.1905/0.0952    30.9  NO EDGE
+KXHIGHLAX                358   168     54    68    -8.07  -11.0%  -4.8c  0.1847/0.1129    19.6  NO EDGE
+KXHIGHMIA                450   216     60    87    -4.43   -5.1%  -2.1c  0.1938/0.1321    25.2  NO EDGE
+KXHIGHNY                 574   257     60   104   -11.91  -10.7%  -4.6c  0.1780/0.1069    30.0  NO EDGE
+KXHIGHPHIL               524   258     57   113    -9.87   -8.3%  -3.8c  0.1970/0.1288    30.1  NO EDGE
+KXHIGHTATL               576   274     60   122    -3.06   -2.5%  -1.1c  0.1917/0.1241    32.0  NO EDGE
+KXHIGHTPHX               495   214     59    94    -7.78   -7.9%  -3.6c  0.1990/0.1116    25.0  NO EDGE
+ALL                     4660  2137    526   917   -74.53   -7.8%  -3.5c  0.1924/0.1175   249.3  NO EDGE
+
+Bets by price band (side price paid):
+   10-50 c  n= 1231  won  25.2%  avg price  28.0c  P/L   -55.08  ROI -16.0%
+   50-80 c  n=  745  won  63.1%  avg price  63.3c  P/L   -16.80  ROI  -3.6%
+   80-90 c  n=  131  won  82.4%  avg price  84.1c  P/L    -3.95  ROI  -3.6%
+   90-95 c  n=   30  won  96.7%  avg price  91.3c  P/L    +1.30  ROI  +4.7%
+
+Calibration of the model's Yes probability (all calls with a quote):
+  model   0-5  %  n=   625  model avg   2.4%  market mid avg  11.3%  Yes won   9.4%
+  model   5-20 %  n=  1752  model avg  12.4%  market mid avg  21.9%  Yes won  21.5%
+  model  20-50 %  n=  1790  model avg  31.2%  market mid avg  33.7%  Yes won  34.6%
+  model  50-80 %  n=   395  model avg  61.4%  market mid avg  57.4%  Yes won  57.0%
+  model  80-95 %  n=    69  model avg  86.0%  market mid avg  53.9%  Yes won  50.7%
+  model  95-100%  n=    29  model avg  98.5%  market mid avg  78.1%  Yes won  72.4%
+
+[exited with code 0]

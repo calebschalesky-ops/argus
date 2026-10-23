@@ -1,0 +1,79 @@
+KXRAIN: 82 events, 1739 city-days, 22 cities
+  candles failed for KXRAIN-26AUG11: kept being refused: https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXRAIN-26AUG11-SFO/candlesticks
+  candles 20/82 events
+  candles 40/82 events
+  candles 60/82 events
+  candles 80/82 events
+  ATL (KATL): 82 days, 179 calls
+  AUS (KAUS): 82 days, 177 calls
+  BOS (KBOS): 82 days, 148 calls
+  DCA (KDCA): 82 days, 155 calls
+  DEN (KDEN): 82 days, 212 calls
+  DFW (KDFW): 82 days, 129 calls
+  EWR (KEWR): 56 days, 50 calls
+  HOU (KHOU): 69 days, 170 calls
+  LAS (KLAS): 82 days, 79 calls
+  LAX (KLAX): 82 days, 38 calls
+  MIA (KMIA): 82 days, 200 calls
+  MSP (KMSP): 82 days, 141 calls
+  MSY (KMSY): 82 days, 188 calls
+  NYC (KNYC): 82 days, 100 calls
+  OKC (KOKC): 82 days, 122 calls
+  ORD (KORD): 82 days, 153 calls
+  PHL (KPHL): 82 days, 125 calls
+  PHX (KPHX): 82 days, 157 calls
+  SAT (KSAT): 82 days, 189 calls
+  SEA (KSEA): 82 days, 125 calls
+  SFO (KSFO): 82 days, 64 calls
+  TTN (KTTN): 56 days, 68 calls
+ARGUS KNOWN-BEFORE: observed-rain backtest (KXRAIN) (paper only; taker at the candle ask, fee included)
+Bet rule: side beats its ask by 5c+ after fee, price >= 10c, bid within 5c.
+
+group                  calls  bets events   won      P/L     ROI   $/ct   Brier mdl/mkt bets/wk  verdict
+slot 10:00 local         877   339     80   166   +12.35   +8.4%  +3.6c  0.1489/0.0933    28.9  NO EDGE
+slot 13:00 local         710   281     79   142   +11.19   +8.9%  +4.0c  0.1452/0.0947    24.0  NO EDGE
+slot 16:00 local         609   199     71   118   +10.58  +10.2%  +5.3c  0.1282/0.0916    17.0  NO EDGE
+slot 19:00 local         473   104     55    65    +5.25   +9.1%  +5.0c  0.0996/0.0590     8.9  NO EDGE
+slot 22:00 local         300    48     38    35    +2.97   +9.5%  +6.2c  0.0569/0.0354     4.1  NO EDGE
+ATL                      179    63     34    35    +5.76  +20.5%  +9.1c  0.1302/0.0936     5.4  NO EDGE
+AUS                      177    48     26    44   +10.12  +30.6% +21.1c  0.0366/0.0503     4.1  PASS: edge after fees
+BOS                      148    45     23    26    +3.65  +16.9%  +8.1c  0.0982/0.0531     3.8  NO EDGE
+DCA                      155    70     29    36    +7.60  +28.1% +10.9c  0.1732/0.0994     6.0  NO EDGE
+DEN                      212    84     38    40    +4.28  +12.5%  +5.1c  0.1761/0.1297     7.2  NO EDGE
+DFW                      129    32     14    18    +1.38   +8.6%  +4.3c  0.0842/0.0533     2.7  TOO EARLY (14/20 events)
+EWR                       50    21     10     7    -2.23  -25.2% -10.6c  0.2147/0.1345     1.8  TOO EARLY (10/20 events)
+HOU                      170    64     32    46    +9.99  +28.6% +15.6c  0.1008/0.1039     5.5  PASS: edge after fees
+LAS                       79    25     10    15    -2.31  -13.7%  -9.2c  0.1477/0.0913     2.1  TOO EARLY (10/20 events)
+LAX                       38    11      3     6    -1.81  -23.7% -16.5c  0.1456/0.1362     0.9  TOO EARLY (3/20 events)
+MIA                      200   107     52    42    +5.18  +14.8%  +4.8c  0.1813/0.1421     9.1  NO EDGE
+MSP                      141    41     16    17    -3.06  -15.8%  -7.5c  0.1458/0.0687     3.5  TOO EARLY (16/20 events)
+MSY                      188    59     33    31    +1.44   +5.1%  +2.4c  0.1199/0.0699     5.0  NO EDGE
+NYC                      100    38     19    13    -0.83   -6.3%  -2.2c  0.1990/0.0794     3.2  TOO EARLY (19/20 events)
+OKC                      122    25     14    19    +1.69  +10.0%  +6.8c  0.0973/0.0610     2.1  TOO EARLY (14/20 events)
+ORD                      153    48     24    26    +2.73  +12.2%  +5.7c  0.1120/0.0662     4.1  NO EDGE
+PHL                      125    47     25    19    -2.22  -10.9%  -4.7c  0.2005/0.0943     4.0  NO EDGE
+PHX                      157    57     24    40    +3.96  +11.3%  +6.9c  0.0895/0.0647     4.9  NO EDGE
+SAT                      189    34     18    20    -3.29  -14.5%  -9.7c  0.0699/0.0387     2.9  TOO EARLY (18/20 events)
+SEA                      125    17      8     6    -2.15  -27.3% -12.6c  0.1298/0.0608     1.5  TOO EARLY (8/20 events)
+SFO                       64     9      4     5    +0.77  +18.9%  +8.6c  0.0592/0.0590     0.8  TOO EARLY (4/20 events)
+TTN                       68    26      9    15    +1.69  +13.2%  +6.5c  0.1595/0.0880     2.2  TOO EARLY (9/20 events)
+ALL                     2969   971     81   526   +42.34   +9.1%  +4.4c  0.1266/0.0820    82.9  NO EDGE
+
+Bets by price band (side price paid):
+   10-50 c  n=  521  won  35.3%  avg price  27.9c  P/L   +29.69  ROI +20.4%
+   50-80 c  n=  315  won  69.8%  avg price  65.5c  P/L    +7.24  ROI  +3.5%
+   80-90 c  n=  118  won  89.8%  avg price  84.2c  P/L    +5.06  ROI  +5.1%
+   90-95 c  n=   17  won  94.1%  avg price  91.1c  P/L    +0.35  ROI  +2.3%
+
+Calibration of the model's Yes probability (all calls with a quote):
+  model   0-5  %  n=   710  model avg   2.8%  market mid avg   9.0%  Yes won   5.8%
+  model   5-20 %  n=  1477  model avg  11.7%  market mid avg  18.1%  Yes won  14.2%
+  model  20-50 %  n=   738  model avg  28.3%  market mid avg  34.8%  Yes won  28.2%
+  model  50-80 %  n=    37  model avg  56.7%  market mid avg  67.3%  Yes won  62.2%
+  model  80-95 %  n=     4  model avg  91.1%  market mid avg  94.4%  Yes won  75.0%
+  model  95-100%  n=     3  model avg  97.2%  market mid avg  94.3%  Yes won 100.0%
+By observed state at the call:
+  measured  calls     6  model  95.5%  market mid  95.8%  rained 100.0%   bets    1  P/L   +0.09
+  wet       calls     4  model  64.0%  market mid  40.4%  rained  50.0%   bets    1  P/L   +0.89
+  overcast  calls  1665  model  19.2%  market mid  25.3%  rained  19.8%   bets  600  P/L  +30.57
+  clear     calls  1294  model   7.8%  market mid  14.8%  rained  11.5%   bets  369  P/L  +10.79

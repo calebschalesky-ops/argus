@@ -1,0 +1,2376 @@
+{
+ "ran_at": "2026-10-23T00:44:20Z",
+ "since": "2026-08-23",
+ "events": 5701,
+ "consistency": {
+  "pair_stats": {
+   "KXAAAGASDMT|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDNV": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDNM": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDMO": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDWI": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDNV": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDWI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDHI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDIN": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDWI": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDIN": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDOK|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDMO": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDSD|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDUT|KXAAAGASDWI": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDNV": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDNM|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDIA": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDNV": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDKS": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDNV": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDIN": {
+    "dates": 14,
+    "equal": 1
+   },
+   "KXAAAGASDKS|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDWV|KXAAAGASDWY": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 3
+   },
+   "KXAAAGASDME|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 2
+   },
+   "KXAAAGASDNM|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDNH": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDWY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDUT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDIA": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDKS": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDNH|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDNE|KXAAAGASDNM": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDUT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDAR": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDRI|KXAAAGASDWY": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDNH": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDNM": {
+    "dates": 22,
+    "equal": 1
+   },
+   "KXAAAGASDKS|KXAAAGASDWI": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNM|KXAAAGASDWI": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDIA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDMO": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDKS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDWI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDCT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDHI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDNH": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDME": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 2
+   },
+   "KXAAAGASDIN|KXAAAGASDKS": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDWI|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDMO": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDID": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDNV": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDID": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDWI": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNM|KXAAAGASDNV": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDWI": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDWI": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDRI|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDID|KXAAAGASDNV": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDWI": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDWI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDOK|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDMO": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDHI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDME": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDNM": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDMO": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDMO": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDWY": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDUT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDID": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDUT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDME": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDNV": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXGOLDD|KXGOLDH": {
+    "dates": 35,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 1
+   },
+   "KXAAAGASDAL|KXAAAGASDNV": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 3
+   },
+   "KXAAAGASDLA|KXAAAGASDNV": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNM|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDMO": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDID": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDCT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDHI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDNH": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDWY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDNV": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDSD|KXAAAGASDWY": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDVT|KXAAAGASDWY": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDAL": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDWY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDID|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDOK|KXAAAGASDWI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDKS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDMS|KXAAAGASDMT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXWTI|KXWTIH": {
+    "dates": 41,
+    "equal": 6
+   },
+   "KXAAAGASDND|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDMT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDKS": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDWY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDWI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDIA": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDKS": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDWY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDNM": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDUT|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNM|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDWI": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDNM": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDUT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDME": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDNV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDMT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDMO": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDNM": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 2
+   },
+   "KXAAAGASDSD|KXAAAGASDWI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDVT|KXAAAGASDWI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDNM": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDUT|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDOK|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDWI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDMT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDDE|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDUT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDNV": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDUT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDAR": {
+    "dates": 14,
+    "equal": 6
+   },
+   "KXAAAGASDKY|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDUT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDUT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDME": {
+    "dates": 22,
+    "equal": 2
+   },
+   "KXSILVERD|KXSILVERH": {
+    "dates": 35,
+    "equal": 8
+   },
+   "KXAAAGASDDE|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDNM": {
+    "dates": 22,
+    "equal": 3
+   },
+   "KXAAAGASDIN|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDNV": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDNM": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDIN": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDWI": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDCT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDWI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDIN": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDHI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDID": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDNM": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDRI|KXAAAGASDWI": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDME|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDWI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDID": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDWY": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDAR|KXAAAGASDME": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDNM": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDME": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDLA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDSD|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 2
+   },
+   "KXAAAGASDVT|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDIN": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDNM": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDNV": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 1
+   },
+   "KXAAAGASDNM|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDHI|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDID": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNM|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDNV": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDNH": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDDE": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDOK|KXAAAGASDUT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDIN": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDWY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDNH": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDIA": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDKS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDNH": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNE|KXAAAGASDUT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDDE": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDRI|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDMT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDDE": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDWI": {
+    "dates": 13,
+    "equal": 4
+   },
+   "KXAAAGASDNM|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDRI|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDKY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDWY": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDNH": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDWI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDME": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDSD|KXAAAGASDUT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDWI|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDNM": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDIA": {
+    "dates": 14,
+    "equal": 1
+   },
+   "KXAAAGASDAK|KXAAAGASDWI": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDMT": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDKS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDDE": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDMT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDUT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDNH": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDME": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 2
+   },
+   "KXAAAGASDND|KXAAAGASDNV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDUT|KXAAAGASDWY": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDRI": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDMO": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDNM": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDHI|KXAAAGASDMO": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMS|KXAAAGASDNV": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDMT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDKS|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDNH": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDOK|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDME|KXAAAGASDND": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDME": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDAK|KXAAAGASDNV": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDOK": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDWI": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDIA|KXAAAGASDNM": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDOK|KXAAAGASDWY": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDMT|KXAAAGASDNM": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASDUT": {
+    "dates": 22,
+    "equal": 0
+   },
+   "KXAAAGASDNH|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 1
+   },
+   "KXAAAGASDKY|KXAAAGASDUT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDME": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDME": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDAL|KXAAAGASDNM": {
+    "dates": 15,
+    "equal": 0
+   },
+   "KXAAAGASDLA|KXAAAGASDNM": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDAR|KXAAAGASDNE": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDCT|KXAAAGASDMO": {
+    "dates": 29,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASDSD": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDRI|KXAAAGASDUT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDMS": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDND|KXAAAGASDWV": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDDE|KXAAAGASDUT": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXAAAGASDKY|KXAAAGASDMO": {
+    "dates": 14,
+    "equal": 4
+   },
+   "KXAAAGASDNE|KXAAAGASDVT": {
+    "dates": 13,
+    "equal": 0
+   },
+   "KXAAAGASDID|KXAAAGASDIN": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXBRENTD|KXWTIH": {
+    "dates": 21,
+    "equal": 0
+   },
+   "KXBRENTD|KXWTIMAX": {
+    "dates": 2,
+    "equal": 0
+   },
+   "KXWTI|KXWTIMAX": {
+    "dates": 2,
+    "equal": 0
+   },
+   "KXWTIH|KXWTIMAX": {
+    "dates": 2,
+    "equal": 0
+   },
+   "KXSILVERH|KXSILVERW": {
+    "dates": 8,
+    "equal": 1
+   },
+   "KXWTIH|KXWTIW": {
+    "dates": 8,
+    "equal": 2
+   },
+   "KXGOLDH|KXGOLDW": {
+    "dates": 8,
+    "equal": 0
+   },
+   "KXWTI|KXWTIW": {
+    "dates": 8,
+    "equal": 8
+   },
+   "KXGOLDD|KXGOLDMON": {
+    "dates": 2,
+    "equal": 2
+   },
+   "KXGOLDH|KXGOLDMON": {
+    "dates": 2,
+    "equal": 0
+   },
+   "KXWTIH|KXWTIMIN": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXWTI|KXWTIMIN": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXSILVERD|KXSILVERMON": {
+    "dates": 2,
+    "equal": 2
+   },
+   "KXSILVERH|KXSILVERMON": {
+    "dates": 2,
+    "equal": 0
+   },
+   "KXNATGASD|KXNATGASMON": {
+    "dates": 2,
+    "equal": 2
+   },
+   "KXBRENTD|KXBRENTMON": {
+    "dates": 2,
+    "equal": 2
+   },
+   "KXCOPPERD|KXCOPPERMON": {
+    "dates": 2,
+    "equal": 1
+   },
+   "KXAAAGASDCT|KXAAAGASMTX": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXAAAGASDMO|KXAAAGASMTX": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXAAAGASDNV|KXAAAGASMTX": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXAAAGASDIN|KXAAAGASMTX": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXAAAGASDWI|KXAAAGASMTX": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXBRENTW|KXWTIH": {
+    "dates": 5,
+    "equal": 0
+   },
+   "KXBRENTD|KXWTI": {
+    "dates": 14,
+    "equal": 0
+   },
+   "KXB65|KXB85": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXBRENTMON|KXWTIMAX": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXBRENTMON|KXWTIH": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXBRENTMON|KXWTI": {
+    "dates": 1,
+    "equal": 0
+   },
+   "KXBRENTW|KXWTI": {
+    "dates": 4,
+    "equal": 0
+   },
+   "KXBRENTW|KXWTIW": {
+    "dates": 4,
+    "equal": 0
+   }
+  },
+  "pairs_used": [
+   "KXWTI|KXWTIW"
+  ],
+  "pair": {
+   "event_pairs": 8,
+   "hours": 344,
+   "lock_hours": 1,
+   "events_with_lock": 1
+  },
+  "ladder": {
+   "events": 799,
+   "hours": 28261,
+   "lock_hours": 1,
+   "events_with_lock": 1
+  }
+ },
+ "engines": {
+  "consistency-ladder": {
+   "calls": 2,
+   "bets": 2,
+   "events": 1,
+   "wins": 1,
+   "avg_price": 0.48,
+   "pnl": 0.01,
+   "roi_on_cost": 0.0101,
+   "edge_per_contract": 0.005,
+   "bets_per_week": 2.0,
+   "brier_model": 0.024050000000000002,
+   "brier_market": 0.02600000000000001,
+   "groups": {
+    "metals": 2
+   },
+   "verdict": "TOO EARLY (1/20 events)"
+  },
+  "consistency-pair": {
+   "calls": 2,
+   "bets": 2,
+   "events": 2,
+   "wins": 1,
+   "avg_price": 0.475,
+   "pnl": 0.03,
+   "roi_on_cost": 0.0309,
+   "edge_per_contract": 0.015,
+   "bets_per_week": 2.0,
+   "brier_model": 0.0044500000000000026,
+   "brier_market": 0.0048499999999999975,
+   "groups": {
+    "energy": 2
+   },
+   "verdict": "TOO EARLY (2/20 events)"
+  },
+  "maker-aaa-bid+1": {
+   "calls": 5126,
+   "bets": 1592,
+   "events": 320,
+   "wins": 126,
+   "avg_price": 0.1502,
+   "pnl": -113.12,
+   "roi_on_cost": -0.4731,
+   "edge_per_contract": -0.0711,
+   "bets_per_week": 398.0,
+   "brier_model": 0.06721010980527638,
+   "brier_market": 0.07258077889447237,
+   "groups": {
+    "gasoline (AAA)": 1592
+   },
+   "verdict": "FAIL"
+  },
+  "maker-bid+1": {
+   "calls": 1806,
+   "bets": 1491,
+   "events": 236,
+   "wins": 597,
+   "avg_price": 0.4773,
+   "pnl": -114.58,
+   "roi_on_cost": -0.161,
+   "edge_per_contract": -0.0768,
+   "bets_per_week": 176.9,
+   "brier_model": 0.22580693912139502,
+   "brier_market": 0.22653172367538565,
+   "groups": {
+    "energy": 920,
+    "metals": 571
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-maker-10-30c": {
+   "calls": 810,
+   "bets": 188,
+   "events": 136,
+   "wins": 18,
+   "avg_price": 0.1657,
+   "pnl": -13.15,
+   "roi_on_cost": -0.4222,
+   "edge_per_contract": -0.0699,
+   "bets_per_week": 50.6,
+   "brier_model": 0.08920983973404256,
+   "brier_market": 0.09138563829787236,
+   "groups": {
+    "gasoline (AAA)": 188
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-maker-30-50c": {
+   "calls": 338,
+   "bets": 87,
+   "events": 73,
+   "wins": 19,
+   "avg_price": 0.3922,
+   "pnl": -15.12,
+   "roi_on_cost": -0.4431,
+   "edge_per_contract": -0.1738,
+   "bets_per_week": 27.7,
+   "brier_model": 0.18182486689655172,
+   "brier_market": 0.2042896551724138,
+   "groups": {
+    "gasoline (AAA)": 87
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-maker-50-70c": {
+   "calls": 336,
+   "bets": 64,
+   "events": 56,
+   "wins": 27,
+   "avg_price": 0.59,
+   "pnl": -10.76,
+   "roi_on_cost": -0.285,
+   "edge_per_contract": -0.1681,
+   "bets_per_week": 18.7,
+   "brier_model": 0.2608246946875,
+   "brier_market": 0.260928125,
+   "groups": {
+    "gasoline (AAA)": 64
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-maker-70-90c": {
+   "calls": 407,
+   "bets": 74,
+   "events": 58,
+   "wins": 42,
+   "avg_price": 0.7984,
+   "pnl": -17.08,
+   "roi_on_cost": -0.2891,
+   "edge_per_contract": -0.2308,
+   "bets_per_week": 19.9,
+   "brier_model": 0.2526674598648649,
+   "brier_market": 0.28802162162162165,
+   "groups": {
+    "gasoline (AAA)": 74
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-maker-90-99c": {
+   "calls": 616,
+   "bets": 44,
+   "events": 32,
+   "wins": 37,
+   "avg_price": 0.9391,
+   "pnl": -4.32,
+   "roi_on_cost": -0.1045,
+   "edge_per_contract": -0.0982,
+   "bets_per_week": 22.0,
+   "brier_model": 0.14477765454545455,
+   "brier_market": 0.1423772727272727,
+   "groups": {
+    "gasoline (AAA)": 44
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-maker-<10c": {
+   "calls": 2357,
+   "bets": 1367,
+   "events": 313,
+   "wins": 4,
+   "avg_price": 0.0308,
+   "pnl": -38.08,
+   "roi_on_cost": -0.9049,
+   "edge_per_contract": -0.0279,
+   "bets_per_week": 341.8,
+   "brier_model": 0.002996298076079005,
+   "brier_market": 0.0038917337234820777,
+   "groups": {
+    "gasoline (AAA)": 1367
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-taker-10-30c": {
+   "calls": 595,
+   "bets": 595,
+   "events": 216,
+   "wins": 42,
+   "avg_price": 0.1671,
+   "pnl": -65.76,
+   "roi_on_cost": -0.6102,
+   "edge_per_contract": -0.1105,
+   "bets_per_week": 154.3,
+   "brier_model": 0.0690464295630252,
+   "brier_market": 0.07242991596638657,
+   "groups": {
+    "gasoline (AAA)": 595
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-taker-30-50c": {
+   "calls": 327,
+   "bets": 327,
+   "events": 153,
+   "wins": 39,
+   "avg_price": 0.4054,
+   "pnl": -100.09,
+   "roi_on_cost": -0.7196,
+   "edge_per_contract": -0.3061,
+   "bets_per_week": 84.8,
+   "brier_model": 0.11633756981651376,
+   "brier_market": 0.19165045871559633,
+   "groups": {
+    "gasoline (AAA)": 327
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-taker-50-70c": {
+   "calls": 340,
+   "bets": 340,
+   "events": 165,
+   "wins": 89,
+   "avg_price": 0.5925,
+   "pnl": -119.26,
+   "roi_on_cost": -0.5726,
+   "edge_per_contract": -0.3508,
+   "bets_per_week": 88.1,
+   "brier_model": 0.20228798464705883,
+   "brier_market": 0.29899882352941176,
+   "groups": {
+    "gasoline (AAA)": 340
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-taker-70-90c": {
+   "calls": 705,
+   "bets": 705,
+   "events": 239,
+   "wins": 225,
+   "avg_price": 0.8165,
+   "pnl": -361.34,
+   "roi_on_cost": -0.6163,
+   "edge_per_contract": -0.5125,
+   "bets_per_week": 189.8,
+   "brier_model": 0.23476030744680854,
+   "brier_market": 0.46216794326241134,
+   "groups": {
+    "gasoline (AAA)": 705
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-taker-90-99c": {
+   "calls": 2823,
+   "bets": 2823,
+   "events": 352,
+   "wins": 2353,
+   "avg_price": 0.9707,
+   "pnl": -415.62,
+   "roi_on_cost": -0.1501,
+   "edge_per_contract": -0.1472,
+   "bets_per_week": 705.8,
+   "brier_model": 0.14719041628763727,
+   "brier_market": 0.15272444208289054,
+   "groups": {
+    "gasoline (AAA)": 2823
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-aaa-taker-<10c": {
+   "calls": 716,
+   "bets": 716,
+   "events": 173,
+   "wins": 5,
+   "avg_price": 0.0461,
+   "pnl": -35.16,
+   "roi_on_cost": -0.8755,
+   "edge_per_contract": -0.0491,
+   "bets_per_week": 185.6,
+   "brier_model": 0.007172514120111733,
+   "brier_market": 0.008690782122905027,
+   "groups": {
+    "gasoline (AAA)": 716
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-maker-10-30c": {
+   "calls": 343,
+   "bets": 313,
+   "events": 185,
+   "wins": 44,
+   "avg_price": 0.1836,
+   "pnl": -13.47,
+   "roi_on_cost": -0.2344,
+   "edge_per_contract": -0.043,
+   "bets_per_week": 37.1,
+   "brier_model": 0.12225477169329074,
+   "brier_market": 0.11787507987220447,
+   "groups": {
+    "energy": 155,
+    "metals": 158
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-maker-30-50c": {
+   "calls": 254,
+   "bets": 229,
+   "events": 160,
+   "wins": 85,
+   "avg_price": 0.3856,
+   "pnl": -3.3,
+   "roi_on_cost": -0.0374,
+   "edge_per_contract": -0.0144,
+   "bets_per_week": 27.2,
+   "brier_model": 0.2351149333187773,
+   "brier_market": 0.23058777292576418,
+   "groups": {
+    "energy": 143,
+    "metals": 86
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-maker-50-70c": {
+   "calls": 277,
+   "bets": 223,
+   "events": 157,
+   "wins": 113,
+   "avg_price": 0.6016,
+   "pnl": -21.16,
+   "roi_on_cost": -0.1577,
+   "edge_per_contract": -0.0949,
+   "bets_per_week": 26.5,
+   "brier_model": 0.2573775820627803,
+   "brier_market": 0.25435695067264574,
+   "groups": {
+    "energy": 138,
+    "metals": 85
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-maker-70-90c": {
+   "calls": 350,
+   "bets": 242,
+   "events": 161,
+   "wins": 177,
+   "avg_price": 0.8072,
+   "pnl": -18.34,
+   "roi_on_cost": -0.0939,
+   "edge_per_contract": -0.0758,
+   "bets_per_week": 28.7,
+   "brier_model": 0.2038619443801653,
+   "brier_market": 0.19313471074380165,
+   "groups": {
+    "energy": 125,
+    "metals": 117
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-maker-90-99c": {
+   "calls": 672,
+   "bets": 291,
+   "events": 155,
+   "wins": 280,
+   "avg_price": 0.9464,
+   "pnl": 4.61,
+   "roi_on_cost": 0.0167,
+   "edge_per_contract": 0.0158,
+   "bets_per_week": 34.5,
+   "brier_model": 0.03728492446735395,
+   "brier_market": 0.03613917525773196,
+   "groups": {
+    "energy": 143,
+    "metals": 148
+   },
+   "verdict": "PROFIT, BRIER NOT BETTER"
+  },
+  "bucket-maker-<10c": {
+   "calls": 710,
+   "bets": 552,
+   "events": 219,
+   "wins": 2,
+   "avg_price": 0.0443,
+   "pnl": -22.48,
+   "roi_on_cost": -0.9183,
+   "edge_per_contract": -0.0407,
+   "bets_per_week": 65.5,
+   "brier_model": 0.0038187809057971013,
+   "brier_market": 0.005594565217391305,
+   "groups": {
+    "energy": 200,
+    "metals": 352
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-taker-10-30c": {
+   "calls": 652,
+   "bets": 652,
+   "events": 246,
+   "wins": 91,
+   "avg_price": 0.1784,
+   "pnl": -34.85,
+   "roi_on_cost": -0.2769,
+   "edge_per_contract": -0.0535,
+   "bets_per_week": 77.4,
+   "brier_model": 0.12219823616564417,
+   "brier_market": 0.11826395705521474,
+   "groups": {
+    "energy": 349,
+    "metals": 303
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-taker-30-50c": {
+   "calls": 358,
+   "bets": 358,
+   "events": 204,
+   "wins": 138,
+   "avg_price": 0.3914,
+   "pnl": -9.27,
+   "roi_on_cost": -0.0629,
+   "edge_per_contract": -0.0259,
+   "bets_per_week": 42.5,
+   "brier_model": 0.2389485520670391,
+   "brier_market": 0.23499469273743018,
+   "groups": {
+    "energy": 233,
+    "metals": 125
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-taker-50-70c": {
+   "calls": 313,
+   "bets": 313,
+   "events": 198,
+   "wins": 178,
+   "avg_price": 0.6031,
+   "pnl": -17.02,
+   "roi_on_cost": -0.0873,
+   "edge_per_contract": -0.0544,
+   "bets_per_week": 37.1,
+   "brier_model": 0.24629514616613415,
+   "brier_market": 0.24666006389776357,
+   "groups": {
+    "energy": 194,
+    "metals": 119
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-taker-70-90c": {
+   "calls": 560,
+   "bets": 560,
+   "events": 240,
+   "wins": 451,
+   "avg_price": 0.8101,
+   "pnl": -11.21,
+   "roi_on_cost": -0.0243,
+   "edge_per_contract": -0.02,
+   "bets_per_week": 66.4,
+   "brier_model": 0.15946997548214284,
+   "brier_market": 0.15344535714285715,
+   "groups": {
+    "energy": 310,
+    "metals": 250
+   },
+   "verdict": "FAIL"
+  },
+  "bucket-taker-90-99c": {
+   "calls": 1188,
+   "bets": 1188,
+   "events": 255,
+   "wins": 1162,
+   "avg_price": 0.9645,
+   "pnl": 4.31,
+   "roi_on_cost": 0.0037,
+   "edge_per_contract": 0.0036,
+   "bets_per_week": 140.9,
+   "brier_model": 0.021643902104377104,
+   "brier_market": 0.021241161616161616,
+   "groups": {
+    "energy": 542,
+    "metals": 646
+   },
+   "verdict": "PROFIT, BRIER NOT BETTER"
+  },
+  "bucket-taker-<10c": {
+   "calls": 1005,
+   "bets": 1005,
+   "events": 244,
+   "wins": 18,
+   "avg_price": 0.0498,
+   "pnl": -42.05,
+   "roi_on_cost": -0.7002,
+   "edge_per_contract": -0.0418,
+   "bets_per_week": 119.2,
+   "brier_model": 0.017781434427860697,
+   "brier_market": 0.01841373134328358,
+   "groups": {
+    "energy": 436,
+    "metals": 569
+   },
+   "verdict": "FAIL"
+  },
+  "latefav-15m": {
+   "calls": 291,
+   "bets": 291,
+   "events": 184,
+   "wins": 279,
+   "avg_price": 0.9298,
+   "pnl": 5.53,
+   "roi_on_cost": 0.0202,
+   "edge_per_contract": 0.019,
+   "bets_per_week": 34.5,
+   "brier_model": 0.04003863573883161,
+   "brier_market": 0.039565635738831616,
+   "groups": {
+    "energy": 192,
+    "metals": 99
+   },
+   "verdict": "PROFIT, BRIER NOT BETTER"
+  },
+  "latefav-30m": {
+   "calls": 368,
+   "bets": 368,
+   "events": 194,
+   "wins": 355,
+   "avg_price": 0.9285,
+   "pnl": 9.62,
+   "roi_on_cost": 0.0279,
+   "edge_per_contract": 0.0261,
+   "bets_per_week": 43.7,
+   "brier_model": 0.03383641760869565,
+   "brier_market": 0.0346125,
+   "groups": {
+    "energy": 258,
+    "metals": 110
+   },
+   "verdict": "PASS"
+  },
+  "latefav-60m": {
+   "calls": 537,
+   "bets": 537,
+   "events": 233,
+   "wins": 516,
+   "avg_price": 0.9285,
+   "pnl": 12.01,
+   "roi_on_cost": 0.0238,
+   "edge_per_contract": 0.0224,
+   "bets_per_week": 63.7,
+   "brier_model": 0.03850600003724395,
+   "brier_market": 0.03859851024208566,
+   "groups": {
+    "energy": 360,
+    "metals": 177
+   },
+   "verdict": "PASS"
+  },
+  "latefav-aaa-15m": {
+   "calls": 1609,
+   "bets": 1609,
+   "events": 396,
+   "wins": 1195,
+   "avg_price": 0.9348,
+   "pnl": -325.14,
+   "roi_on_cost": -0.2139,
+   "edge_per_contract": -0.2021,
+   "bets_per_week": 402.2,
+   "brier_model": 0.22063021469857055,
+   "brier_market": 0.22345798632691113,
+   "groups": {
+    "gasoline (AAA)": 1609
+   },
+   "verdict": "FAIL"
+  },
+  "latefav-aaa-30m": {
+   "calls": 1595,
+   "bets": 1595,
+   "events": 392,
+   "wins": 1164,
+   "avg_price": 0.9344,
+   "pnl": -342.35,
+   "roi_on_cost": -0.2273,
+   "edge_per_contract": -0.2146,
+   "bets_per_week": 398.8,
+   "brier_model": 0.22224682570532914,
+   "brier_market": 0.23416426332288404,
+   "groups": {
+    "gasoline (AAA)": 1595
+   },
+   "verdict": "FAIL"
+  },
+  "latefav-aaa-60m": {
+   "calls": 1593,
+   "bets": 1593,
+   "events": 397,
+   "wins": 1191,
+   "avg_price": 0.9337,
+   "pnl": -312.34,
+   "roi_on_cost": -0.2078,
+   "edge_per_contract": -0.1961,
+   "bets_per_week": 398.2,
+   "brier_model": 0.20239827063402385,
+   "brier_market": 0.2191994350282486,
+   "groups": {
+    "gasoline (AAA)": 1593
+   },
+   "verdict": "FAIL"
+  }
+ }
+}
