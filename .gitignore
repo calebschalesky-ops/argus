@@ -4,3 +4,11 @@ __pycache__/
 .env
 data/cache/
 logs/
+
+# Run output: written by every command, never committed
+alerts/
+scans/
+**/api_calls.csv
+smartmoney/*.csv
+smartmoney_log.csv
+data/lake/

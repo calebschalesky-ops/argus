@@ -68,16 +68,16 @@ shows each rule as its own line).
   28+ days old, with a fresh holdout date) + promote + settle + live + the lab lines of the board.
   The summary is also saved to `data/lake/nightly_last.txt`.
 
-## Scheduling (Caleb approves; not created by this session)
+## Scheduling (optional, Windows)
 
 Both run as plain Python, so they cost nothing (no Claude session). Paste into a Command Prompt:
 
 ```
-schtasks /Create /TN "argus-lab-nightly" /SC DAILY /ST 01:30 /F /TR "cmd /c cd /d C:\Users\caleb\Work\argus && C:\Users\caleb\AppData\Local\Programs\Python\Python312\python.exe -m argus.lab nightly >> data\lake\nightly.log 2>&1"
+schtasks /Create /TN "argus-lab-nightly" /SC DAILY /ST 01:30 /F /TR "cmd /c cd /d <path-to-argus> && python -m argus.lab nightly >> data\lake\nightly.log 2>&1"
 ```
 
 ```
-schtasks /Create /TN "argus-lab-live" /SC HOURLY /MO 1 /F /TR "cmd /c cd /d C:\Users\caleb\Work\argus && C:\Users\caleb\AppData\Local\Programs\Python\Python312\python.exe -m argus.lab live >> data\lake\live.log 2>&1"
+schtasks /Create /TN "argus-lab-live" /SC HOURLY /MO 1 /F /TR "cmd /c cd /d <path-to-argus> && python -m argus.lab live >> data\lake\live.log 2>&1"
 ```
 
 Windows Task Scheduler runs these whether or not the Claude app is open (unlike the desktop
